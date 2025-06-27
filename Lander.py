@@ -30,7 +30,7 @@ st.divider()
 # Gumroad link button
 st.link_button(
     "Get Access on Gumroad",
-    "https://YOUR_GUMROAD_LINK_HERE", # <-- IMPORTANT: Replace with your link
+    "https://blogsmith3.gumroad.com/l/sfllx", # <-- IMPORTANT: Replace with your link
     type="primary",
     use_container_width=True
 )
